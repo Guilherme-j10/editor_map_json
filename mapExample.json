@@ -1,0 +1,21 @@
+{
+    "Configuracoes_globais":{
+        "estilo":{
+            "cor_principal": "#333",
+            "cor_secundaria": "#222"
+        },
+        "website":{
+            "nome_do_site": "Emprestimo consignado"
+        }
+    },
+    "Home":{
+        "home_info":{
+            "titulo_da_pagina": "BV - home"
+        },
+        "banner":{
+            "titulo_principal": "Aposentados e pensionistas do inss",
+            "sub_titulo": "A menor taxa do mercado com 84% de desconto",
+            "texto_link": "Simule aqui"
+        }
+    }
+}
